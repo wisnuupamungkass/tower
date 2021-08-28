@@ -1,0 +1,1 @@
+<a href="#" class="logo">DISHUB <span class="lite">SUKOHARJO</span></a>

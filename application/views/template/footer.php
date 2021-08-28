@@ -1,0 +1,1 @@
+<p>&copy; SIDALMENTEL 2016 | Dinas Perhubungan, Informatika, dan Komunikasi Kabupaten Sukoharjo</p>
